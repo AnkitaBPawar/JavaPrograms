@@ -2,7 +2,7 @@ package Absraction;
 
 public class ClassC implements interfaceA,InterfaceB {
 
-	
+	//Adding this comment for git repo
 
 	public void method2() {
 		// TODO Auto-generated method stub
